@@ -1,0 +1,13 @@
+name: TextPredictingApplication
+title: TextPredictingApplication
+username:
+account: gaurav952
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1004500
+bundleId: 2187584
+url: https://gaurav952.shinyapps.io/TextPredictingApplication/
+when: 1561819486.20631
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
